@@ -1,2 +1,2 @@
 # Braille-OCR-display
-the files describing Braille OCR project
+Containing some files describing Braille OCR project
